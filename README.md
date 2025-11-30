@@ -8,7 +8,7 @@ Currently exploring broader data engineering tooling and expanding technical dep
 - **Interests:** Data pipelines, automation, data modelling (learning phase)
 
 ## 📂 Projects
-A few repositories are available on this profile — feel free to explore them to see recent work and practice projects.
+A few repositories are available on this profile. Feel free to explore them to see recent work and practice projects.
 
 ## 🎯 Current Direction
 - Learning modern data engineering tools and platforms  
