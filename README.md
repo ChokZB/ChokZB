@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Data Engineer
 
-<!--
-**ChokZB/ChokZB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building reliable data solutions and writing clear, maintainable Python code.  
+Currently exploring broader data engineering tooling and expanding technical depth through hands-on practice.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming:** Python  
+- **Interests:** Data pipelines, automation, data modelling (learning phase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+A few repositories are available on this profile — feel free to explore them to see recent work and practice projects.
+
+## 🎯 Current Direction
+- Learning modern data engineering tools and platforms  
+- Improving project structure, documentation, and reproducible workflows  
+
+## 📫 Connect
+Always open to feedback and collaboration on small projects or learning exercises.
